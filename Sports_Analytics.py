@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 
-path = 'C:/Users/lefte/Desktop/all_seasons.csv'
+path = '.....'
 df = pd.read_csv(path, index_col=0)
 
 main_variables = df.groupby('player_name', as_index=False).agg({'player_height': 'mean', 'player_weight':'mean'})
