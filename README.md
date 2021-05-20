@@ -7,6 +7,12 @@
 
 ![image](https://user-images.githubusercontent.com/74420150/119011612-e6e98600-b99d-11eb-9f08-bf685d3b3444.png)
 
+![Figure 2021-05-20 190341](https://user-images.githubusercontent.com/74420150/119011936-34fe8980-b99e-11eb-88ba-245960719aed.png)
+
+
+
+
+![Figure 2021-05-20 190353](https://user-images.githubusercontent.com/74420150/119011959-3a5bd400-b99e-11eb-81a5-66e2555b75e2.png)
 
 
 ![image](https://user-images.githubusercontent.com/74420150/119010863-2794cf80-b99d-11eb-9930-dcaba8f5c7eb.png)
